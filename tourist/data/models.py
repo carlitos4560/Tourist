@@ -3,9 +3,9 @@ from django.db import models
 # Create your models here.
 class User(models.Model):
     pass
-class Venue(models.Moldel):
+class Venue(models.Model):
     pass
-class Venuegroup(models.Moldel):
+class Venuegroup(models.Model):
     pass
 class Checking(models.Model):
     pass
